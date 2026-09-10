@@ -1,0 +1,3 @@
+# Never apply text/line-ending conversion to binary files.
+*.pdf binary
+*.faiss binary
